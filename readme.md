@@ -56,18 +56,6 @@ Fitness Buddy Connect is a social fitness app that connects individuals with sim
 - Prioritize user privacy and data security.
 - Features for users to control the visibility of their profiles and workout data.
 
-## Installation
-
-To install Fitness Buddy Connect, follow the instructions in [INSTALLATION.md](link-to-installation-file).
-
-## Usage
-
-For usage guidelines and tips, refer to [USAGE.md](link-to-usage-file).
-
-## Contributing
-
-Please read [CONTRIBUTING.md](link-to-contributing-file) for details on our code of conduct, and the process for submitting pull requests.
-
 ## License
 
 This project is licensed under the [MIT License](link-to-license-file).
